@@ -282,8 +282,8 @@ export default {
           {
             label: "ACL4SSR",
             options: [
-	      {
-	        label: "试一试",
+              {
+                label: "试一试",
                 value:
                   "https://github.com/xquyan/now-subconverter/blob/master/subconverter/config/CustomRules.ini"
               },
