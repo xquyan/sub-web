@@ -282,6 +282,11 @@ export default {
           {
             label: "ACL4SSR",
             options: [
+	      {
+	        label: "试一试",
+                value:
+                  "https://github.com/xquyan/now-subconverter/blob/master/subconverter/config/CustomRules.ini"
+              },
               {
                 label: "ACL4SSR_Online 默认版 分组比较全(与Github同步)",
                 value:
