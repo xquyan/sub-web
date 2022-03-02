@@ -284,7 +284,8 @@ export default {
 	    options:[
 	      {
 	        label:"xquyan-self-use",
-		value:"https://raw.githubusercontent.com/xquyan/STUFF/main/xquyan_self_use_template.ini"
+		value:
+		  "https://raw.githubusercontent.com/xquyan/STUFF/main/xquyan_self_use_template.ini"
 	      }
 	    ]
 	  },
@@ -294,7 +295,7 @@ export default {
               {
                 label: "CustomRule01",
                 value:
-                  "https://raw.githubusercontent.com/xquyan/now-subconverter/master/subconverter/config/CustomRules.ini"
+                  "https://raw.githubusercontent.com/xquyan/STUFF/main/xquyan_self_use_template.ini"
               },
               {
                 label: "ACL4SSR_Online 默认版 分组比较全(与Github同步)",
