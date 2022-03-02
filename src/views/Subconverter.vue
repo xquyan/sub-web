@@ -279,13 +279,12 @@ export default {
               }
             ]
           },
-	  {
-	    label: "self-use",
-	    options:[
-	      {
-	        label:"xquyan-self-use",
-		value:
-		  "https://raw.githubusercontent.com/xquyan/STUFF/main/xquyan_self_use_template.ini"
+          {
+            label: "self-use",
+            options: [
+              {
+                label: "xquyan-self-use",
+                value: "https://raw.githubusercontent.com/xquyan/STUFF/main/xquyan_self_use_template.ini"
               }
             ]
           },
